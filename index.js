@@ -22,3 +22,7 @@ Helpful commands:
 
 If you have any bugs or questions on how to use me, have a look at my website, or head to @vickyorflowerbotnews.
  All commands can be used with the following: / !</p>
+
+</html>
+</body>
+</head>
