@@ -7,7 +7,7 @@
 <p>hi my name is html bot IAM an HTML bot to review HTML 
 Group manager bot by balasarathi and subasri
 
-<button TYPE ="button" onclick=document.getELEmentBYId('help')
+<button TYPE ="button" onclick=document.getELEmentBYId('help')= Help()">
 help</button>
 
 <p id="help">  
